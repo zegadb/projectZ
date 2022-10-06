@@ -1,0 +1,8 @@
+.part2 p {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.part2 span {
+    color: green;
+    font-style: italic;
+}
