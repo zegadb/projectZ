@@ -1,17 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700&display=swap');
 .part5 {
     background-color: #9DC9C8;
     padding: 100px;
 }
 .chead{
     font-size: 30px;
+    font-weight: 700;
+    font-family: Roboto slab;
 }
 .cost{
     font-size: 10px;
+    margin: 0;
+    font-family: Roboto;
+    
 }
 .value{
     font-size: 40px;
-    margin-top: -8px;
+    margin-top: 0;
     font-weight: 400px;
+    font-family: Roboto ;
+
 }
 .part5 ul{
     list-style-type: none;
@@ -20,6 +28,9 @@
 }
 .list{
     margin-left: -30px;
+    font-family: Roboto;
 }
-.p1{
+
+.li1 {
+    margin-right: 50px;
 }
