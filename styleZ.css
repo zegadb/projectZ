@@ -1,8 +1,24 @@
-.part4 p {
-    font-family:'Times New Roman', Times, serif;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+body {
+    margin: 0;
 }
 
-.part4 span {
-    color: red;
-    font-style: italic;
+.block1{
+    width: 100%;
+    background-color: #EFEFEF;
+}
+
+.block1 h1 {
+    font-family: Roboto Slab;
+}
+
+.block2 {
+    width: 100%;
+    background-color: #9DC9C8;
+}
+
+.block3 {
+    width: 100%;
+    background-color: #000000;
 }
