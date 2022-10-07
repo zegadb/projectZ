@@ -2,6 +2,22 @@
     border: 4;
 }
 
+ .sync{
+   width: 210px;
+}
+ @media screen and (min-width:601px)  and (max-width:767px){
+    .part1 .sync{
+    width: 720px;
+    height: 800px;
+} }
+@media screen and (min-width:601px)  and (max-width:767px){
+
+    .part1 .sync{
+    width: 720px;
+    height: 800px;
+} }
+
+
 .part1 ul {
     display: flex;
     list-style: none;
@@ -12,17 +28,20 @@
 .part1 li {
  display: flex;
  flex-direction: row;
- margin-left: 25px;
- font-size: 20px ;
+ margin-left: 35px;
+ font-size: 39px ;
  font-weight: 400;
+ margin-bottom: 60px;
+ margin-top: 99px;
 
 }
 
 .part1 ul img {
-    margin-right: 8px;
+    margin-right: 11px;
+    width:45px;
 }
 
 .part1 h1{
     font-weight: 700;
-    size: 37;
+    size: 97px;
 }
