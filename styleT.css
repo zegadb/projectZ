@@ -2,4 +2,27 @@
     border: 4;
 }
 
-image.png
+.part1 ul {
+    display: flex;
+    list-style: none;
+    margin-left: 35px;
+    align-items: center;
+    flex-direction: row;
+}
+.part1 li {
+ display: flex;
+ flex-direction: row;
+ margin-left: 25px;
+ font-size: 20px ;
+ font-weight: 400;
+
+}
+
+.part1 ul img {
+    margin-right: 8px;
+}
+
+.part1 h1{
+    font-weight: 700;
+    size: 37;
+}
