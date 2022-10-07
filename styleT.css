@@ -9,17 +9,6 @@
  .sync{
    width: 210px;
 }
- @media screen and (min-width:601px)  and (max-width:767px){
-    .part1 .sync{
-    width: 720px;
-    height: 800px;
-} }
-@media screen and (min-width:601px)  and (max-width:767px){
-
-    .part1 .sync{
-    width: 720px;
-    height: 800px;
-} }
 
 
 .part1 ul {
@@ -54,4 +43,18 @@
 .part1 h1{
     font-weight: 700;
     size: 97px;
+}
+
+@media screen and (min-width:601px)  and (max-width:767px){
+   .part1 .sync{
+   width: 720px;
+   height: 800px;
+}
+}
+@media screen and (min-width:601px)  and (max-width:767px){
+
+   .part1 .sync{
+   width: 720px;
+   height: 800px;
+}
 }
