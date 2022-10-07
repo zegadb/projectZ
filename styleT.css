@@ -30,15 +30,18 @@
  flex-direction: row;
  margin-left: 35px;
  font-size: 39px ;
- font-weight: 400;
+ font-weight: 500;
  margin-bottom: 60px;
  margin-top: 99px;
+ width: 470px;
 
 }
 
 .part1 ul img {
-    margin-right: 11px;
-    width:45px;
+   
+    width: 35px;
+    margin-top: 30px;
+    margin-left: 11px;
 }
 
 .part1 h1{
