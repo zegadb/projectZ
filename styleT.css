@@ -1,5 +1,5 @@
 .part1{
-    padding: 120px;
+    padding: 0 120px 0 120px;
 }
 
 .part1 hr{
@@ -21,16 +21,13 @@
     padding-right: 25px
     
 }
-.part1 li {
+.part1 .li p {
  display: flex;
  flex-direction: row;
- font-size: 39px ;
  font-weight: 500;
  margin-top: 99px;
  width: 470px;
  flex-wrap: nowrap;
-
-
 }
 
 .part1 ul img {
