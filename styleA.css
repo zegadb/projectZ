@@ -1,11 +1,26 @@
-.part2 p {
-    font-family:'Times New Roman', Times, serif;
+.part5 {
+    background-color: #9DC9C8;
+    padding: 100px;
 }
-
-.part2 span {
-    color: green;
-    font-style: italic;
+.chead{
+    font-size: 30px;
 }
-.begin{
-    background-color: 9DC9C8;
+.cost{
+    font-size: 10px;
+}
+.value{
+    font-size: 40px;
+    margin-top: -8px;
+    font-weight: 400px;
+}
+.part5 ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+.list{
+    margin-left: -30px;
+}
+.p1{
+    font-size: ;
 }
