@@ -4,22 +4,26 @@
     padding: 100px;
 }
 .chead{
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 700;
     font-family: Roboto slab;
+    margin-top: 32px;
+    line-height: 80%;
+    margin-bottom: 60px;
 }
 .cost{
-    font-size: 10px;
+    font-size: 12px;
+    font-weight: 400;
     margin: 0;
     font-family: Roboto;
     
 }
 .value{
-    font-size: 40px;
+    font-size: 70px;
     margin-top: 0;
     font-weight: 400px;
     font-family: Roboto ;
-
+    
 }
 .part5 ul{
     list-style-type: none;
