@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
-    margin: 120px; 
+    margin: 0;
     font-family: Roboto;
 }
+
 @media screen and (min-width:601px) and (max-width:767px) {
     body { 
         margin: 100px;
