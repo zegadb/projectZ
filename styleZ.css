@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 body {
     margin: 20px; 
+    font-family: Roboto;
 }
 
 .part4 p {
