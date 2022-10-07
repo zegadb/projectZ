@@ -1,3 +1,7 @@
+.part1{
+    padding: 120px;
+}
+
 .part1 hr{
     border: 4;
 }
@@ -21,25 +25,28 @@
 .part1 ul {
     display: flex;
     list-style: none;
-    margin-left: 35px;
+    margin-right: 33px;
     align-items: center;
     flex-direction: row;
+    width: 400px;
+    padding-right: 25px
+    
 }
 .part1 li {
  display: flex;
  flex-direction: row;
- margin-left: 35px;
  font-size: 39px ;
  font-weight: 500;
- margin-bottom: 60px;
  margin-top: 99px;
  width: 470px;
+ flex-wrap: nowrap;
+
 
 }
 
 .part1 ul img {
    
-    width: 35px;
+    height: 35px;
     margin-top: 30px;
     margin-left: 11px;
 }
