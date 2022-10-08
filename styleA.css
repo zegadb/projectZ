@@ -57,3 +57,26 @@
    font-size: 10px;
    line-height: 10px;
 }
+.part2{
+    padding-left: 36px;
+    padding-right: 31px;
+}
+.part2 h2{
+  font-family: Roboto Slab;
+  font-style: Bold;
+  font-size: 26px;
+  line-height: 26px;
+}
+.part2 p{
+    font-family: Roboto Regular,sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+}
+.man2{
+    width: 170.55px;
+    height: 160.29px;
+    margin-left: 101px;
+}
+.course-time{
+    display: flex;
+}
