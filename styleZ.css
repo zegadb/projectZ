@@ -10,22 +10,25 @@ body {
     font-family: Roboto;
 }
 header {
-    padding: 120px 0 0 120px;
+    padding: 36px 0 0 35px;
+}
+.syng_white {
+    height: 32px;
 }
 .logos {
     display: flex;
     flex-direction: row;
-    margin: 10px 0 0 0;
+    margin: 13px 0 0 0;
     padding: 0;
 }
 .contacts {
     padding-left: 0;
-    margin-top: 50px;
+    margin-top: 47.66px;
 }
 .part6 {
     background-color: black;
     color: white;
-    padding: 20px 40px;
+    padding: 20px 38px;
 }
 .part6 li {
     display: flex;
@@ -37,7 +40,7 @@ header {
     font-size: 12px;
 }
 .last-item {
-    margin: 50px 0 0 0;
+    margin: 49px 0 0 0;
     font-size: 10px;
 }
 @media screen and (min-width:601px) and (max-width:767px) {
