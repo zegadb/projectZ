@@ -35,10 +35,6 @@
     padding: 0;
     line-height: 101.38%;
 }
-.part1 .chair img {
-    display: block;
-    position: relative;
-}
 .man {
     z-index: 2;
 }
@@ -56,8 +52,9 @@
     line-height: 130%;
     color: white;
 }
-@media screen and (min-width:601px)  and (max-width:767px){
+@media screen and (min-width:601px) and (max-width:767px){
     .part1 .sync {
     width: 720px;
     height: 800px;
+    }
 }
