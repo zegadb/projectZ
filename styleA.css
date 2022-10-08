@@ -8,7 +8,7 @@
 .chead{
     font-size: 26px;
     font-weight: 700;
-    font-family: Roboto slab;
+    font-family: Roboto Slab;
     line-height: 26.36px;
     margin-top: 33px;
     margin-bottom: 35.33px;
@@ -53,7 +53,7 @@
    line-height: 12px;
 }
 .part5 .p2{
-   font-family: Roboto Regular,sans-serif;
+   font-family: Roboto,sans-serif;
    font-size: 10px;
    line-height: 10px;
 }
@@ -68,7 +68,7 @@
   line-height: 26px;
 }
 .part2 p{
-    font-family: Roboto Regular,sans-serif;
+    font-family: Roboto,sans-serif;
     font-size: 12px;
     line-height: 18px;
 }
