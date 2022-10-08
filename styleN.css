@@ -26,7 +26,8 @@
         margin-bottom: 4px;
         margin: 14px auto;
         float: left;
-        box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25); 
+        background: #FFFFFF;
+        box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
         margin-left: 85px;
         
     }
