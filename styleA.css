@@ -62,10 +62,40 @@
     padding-right: 31px;
 }
 .part2 h2{
-  font-family: Roboto Slab;
-  font-style: Bold;
-  font-size: 26px;
-  line-height: 26px;
+    margin-top: 75px;
+    font-family: Roboto Slab;
+    font-style: Bold;
+    font-size: 26px;
+    line-height: 26px;
+}
+.part2 h4{
+    color: #1E4681;
+}
+.course-time .duration {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 130%;
+}
+.course-time ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+}
+.course-time li {
+    margin-right: 33px;
+}
+.course-time .duration {
+    margin: 0;
+}
+.course-time .duration1 {
+    margin: 0 0 34px 0;
+}
+.what {
+    font-size: 12px;
+    line-height: 150%;
+    padding: 0 0 0 15px;
 }
 .part2 p{
     font-family: Roboto,sans-serif;
@@ -76,7 +106,4 @@
     width: 170.55px;
     height: 160.29px;
     margin-left: 101px;
-}
-.course-time{
-    display: flex;
 }
