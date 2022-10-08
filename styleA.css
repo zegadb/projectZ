@@ -78,5 +78,21 @@
     margin-left: 101px;
 }
 .course-time{
-    display: flex;
+   display: flex;
+   flex-direction: row;
+}
+.course-time ul{
+    list-style-type: none;
+}
+.course-time .duration{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15.6px;
+}
+.course-time .duration1{
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 13px;
 }
