@@ -2,29 +2,21 @@
 body {
     margin: 0;
     font-family: Roboto;
-    /* width: 100%; */
 }
 header {
     padding: 120px 0 0 120px;
 }
-.part4 p {
-    font-family:'Times New Roman', Times, serif;
+.part6 {
+    background-color: black;
+    color: white;
 }
-.block1{
-    width: 100%;
-    background-color: #EFEFEF;
+.part5:
+.part6 ul p {
+    margin: 0;
 }
-.block1 h1 {
-    font-family: Roboto Slab;
-}
-.block2 {
-    width: 100%;
-    background-color: #9DC9C8;
-}
-
-.block3 {
-    width: 100%;
-    background-color: #000000;
+.part6 li {
+    display: flex;
+    flex-direction: row;
 }
 @media screen and (min-width:601px) and (max-width:767px) {
     body { 
