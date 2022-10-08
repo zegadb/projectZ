@@ -1,7 +1,6 @@
 .part1{
     padding: 0 120px 0 120px;
 }
-
 .part1 hr{
     border: 4;
 }
@@ -9,8 +8,6 @@
  .sync{
    width: 210px;
 }
-
-
 .part1 ul {
     display: flex;
     list-style: none;
@@ -29,19 +26,16 @@
  width: 470px;
  flex-wrap: nowrap;
 }
-
 .part1 ul img {
    
     height: 35px;
     margin-top: 30px;
     margin-left: 11px;
 }
-
 .part1 h1{
     font-weight: 700;
     size: 97px;
 }
-
 @media screen and (min-width:601px)  and (max-width:767px){
    .part1 .sync{
    width: 720px;

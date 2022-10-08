@@ -1,73 +1,46 @@
-
-    .part3{
-        clear: both;
-       
-        
-        overflow: auto;
-        padding: 0.01em 16px;
-        margin-left: 15px;
-        margin: auto;
-        margin-bottom: 20px;
-
-        
-        
-        
-
-    }
-    .cart-program{
-        max-height: 152.84px;
-        margin: 20px;
-        display: block;
-        max-width: 185.92px;
-        left: 95px;
-        top: 3287px;
-        border-radius: 13.9792px; 
-        margin-top: 5px;
-        margin-bottom: 4px;
-        margin: 14px auto;
-        float: left;
-        background: #FFFFFF;
-        box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
-        margin-left: 85px;
-        
-    }
-
-    .cart-body{
-        padding: 5px;
-        margin-top: 5px;
-        margin-bottom: 5px;
-        
-    }
-    .cart-program-title{
-        margin-top: -8px;
-        width: 170.08px;
-        margin-left: 5px;
-        height: 33.08px;
-        font-weight: 700;
-        font-size: 14px;
-        line-height: 97%;
-    }
-
-    .cart-program-subtitle{
-        width: 170.08px;
-        margin-top: -25px;
-        margin-left: 5px;
-        height: 29.36px;
-        font-weight: 400;
-        font-size: 12px;
-        line-height: 130%;
-    
-    }
-    h1{
-        width: 421.7px;
-        height: 43.34px;
-        margin-left: 26px;
-        font-family: 'Roboto Slab';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 26px;
-        line-height: 101.38%;
-        color: black;
-    }
-    
-   
+.part3{
+    clear: both;
+    overflow: auto;
+    padding: 0.01em 16px;
+    margin-left: 15px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.cart-program{
+    max-height: 152.84px;
+    margin: 20px;
+    display: block;
+    max-width: 185.92px;
+    left: 95px;
+    top: 3287px;
+    border-radius: 13.9792px; 
+    margin-top: 5px;
+    margin-bottom: 4px;
+    margin: 14px auto;
+    float: left;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25); 
+    margin-left: 85px; 
+}
+.cart-body{
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.cart-program-title{
+    margin-top: -8px;
+    width: 170.08px;
+    margin-left: 5px;
+    height: 33.08px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 97%;
+}
+.cart-program-subtitle{
+    width: 170.08px;
+    margin-top: -25px;
+    margin-left: 5px;
+    height: 29.36px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 130%;
+}
