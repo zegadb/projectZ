@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
 body {
-    margin: 0;
     font-family: Roboto;
 }
 header {
@@ -10,7 +14,6 @@ header {
     background-color: black;
     color: white;
 }
-.part5:
 .part6 ul p {
     margin: 0;
 }
