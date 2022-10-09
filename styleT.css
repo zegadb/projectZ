@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-.part1{
-      padding: auto;  
-        
-    
-=======
 .part1 {
     padding: 0 35px 0 35px;
->>>>>>> a7f10ac12d70ef0e23cffbf3e5f4f12e9b3e911a
 }
 .part1 p {
     font-size: 10px;
@@ -51,30 +44,9 @@
 .man {
     z-index: 2;
 }
-<<<<<<< HEAD
-
-.part1 .zritel{
-    background-color: #1e4681;
-
-}
-
-
-
-
-
-
-.part1 h2{
-    font-size: 250px;
-}
-@media screen and (min-width:601px)  and (max-width:767px){
-   .part1 .sync{
-   width: 720px;
-   height: 800px;
-=======
 .shadow {
     z-index: 1;
     margin-top: -10px;
->>>>>>> a7f10ac12d70ef0e23cffbf3e5f4f12e9b3e911a
 }
 .blue_quote {
     overflow: hidden;
