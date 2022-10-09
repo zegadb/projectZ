@@ -1,5 +1,7 @@
 .part1{
-    padding: 0 120px 0 120px;
+      padding: auto;  
+        
+    
 }
 .part1 hr{
     border: 4;
@@ -35,6 +37,20 @@
 .part1 h1{
     font-weight: 700;
     size: 97px;
+}
+
+.part1 .zritel{
+    background-color: #1e4681;
+
+}
+
+
+
+
+
+
+.part1 h2{
+    font-size: 250px;
 }
 @media screen and (min-width:601px)  and (max-width:767px){
    .part1 .sync{
