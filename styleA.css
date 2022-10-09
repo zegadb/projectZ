@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700&display=swap');
 .part5 {
     background-color: #9DC9C8;
-    padding: 100px;
+    width:376px;
+    height: 363px;
+    padding: 20px 40px;
 }
 .chead{
-    font-size: 50px;
+    font-size: 26px;
     font-weight: 700;
-    font-family: Roboto slab;
-    margin-top: 32px;
-    line-height: 80%;
-    margin-bottom: 60px;
+    font-family: Roboto Slab;
+    line-height: 26.36px;
+    margin-top: 33px;
+    margin-bottom: 35.33px;
+    margin-left: -3px;
 }
 .cost{
     font-size: 12px;
@@ -19,9 +22,9 @@
     
 }
 .value{
-    font-size: 70px;
+    font-size: 37px;
     margin-top: 0;
-    font-weight: 400px;
+    font-weight: 400;
     font-family: Roboto ;
     
 }
@@ -30,11 +33,96 @@
     display: flex;
     flex-direction: row;
 }
-.list{
-    margin-left: -30px;
+.list .li1, .li2{
     font-family: Roboto;
+    padding-right: 31px;
+    margin-left: -36px;
 }
-
-.li1 {
-    margin-right: 50px;
+.list .li1{
+    width: 138px;
+}
+.list .li2{
+    width: 138px;
+}
+.li2{
+    margin-left: auto;
+}
+.part5 .p1{
+   font-family: Roboto;
+   font-size: 12px;
+   line-height: 12px;
+}
+.part5 .p2{
+   font-family: Roboto,sans-serif;
+   font-size: 10px;
+   line-height: 10px;
+}
+.part2{
+    padding-left: 36px;
+    padding-right: 31px;
+}
+.part2 h2{
+    margin-top: 75px;
+    font-family: Roboto Slab;
+    font-style: Bold;
+    font-size: 26px;
+    line-height: 26px;
+}
+.part2 h4{
+    color: #1E4681;
+}
+.course-time .duration {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 130%;
+}
+.course-time ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+}
+.course-time li {
+    margin-right: 33px;
+}
+.course-time .duration {
+    margin: 0;
+}
+.course-time .duration1 {
+    margin: 0 0 34px 0;
+}
+.what {
+    font-size: 12px;
+    line-height: 150%;
+    padding: 0 0 0 15px;
+}
+.part2 p{
+    font-family: Roboto,sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+}
+.man2{
+    width: 170.55px;
+    height: 160.29px;
+    margin-left: 101px;
+}
+.course-time{
+   display: flex;
+   flex-direction: row;
+}
+.course-time ul{
+    list-style-type: none;
+}
+.course-time .duration{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15.6px;
+}
+.course-time .duration1{
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 13px;
 }

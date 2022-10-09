@@ -43,9 +43,8 @@
     font-weight: 400;
     font-size: 12px;
     line-height: 130%;
-
 }
-h1{
+.part3 h1{
     width: 421.7px;
     height: 43.34px;
     margin-left: 26px;
@@ -55,4 +54,69 @@ h1{
     font-size: 26px;
     line-height: 101.38%;
     color: black;
+}
+.part4{
+    width: 376px;
+    height: 423px;
+    left: -1px;
+    background: #EFEFEF;
+
+}
+.big-card{
+    width: 308px;
+    height: 248px;
+    background: #FFFFFF;
+    box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
+    border-radius: 13.9792px;
+    margin-left: 36px;
+
+}
+.big-card-comment{
+    width: 266px;
+    height: 111.01px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 150%;
+    margin-left: 21px;
+    padding-top: 18.47px;
+    color: #000000;
+}
+
+.profile-photo{
+    width: 80px;
+    height: 84px;
+    margin-left: 21px;
+    margin-top: 13px;
+}
+.facebook-big-card{
+    width: 14.91px;
+    height: 17.2px;
+    margin-left: 114.63px;
+    margin-top: -40.54px;
+}
+.commenter{
+    width: 164.49px;
+    height: 14.73px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 101.38%;
+    color: #000000;
+    margin-left: 114.63px;
+    margin-top: -70.74px;
+}
+.big-card-title{
+    width: 257px;
+    height: 69px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+    color: #000000;
+    padding-top: 42px;
+    margin-left: 36px;
 }
