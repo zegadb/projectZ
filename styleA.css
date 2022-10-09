@@ -111,7 +111,7 @@
 .camera {
     display: flex;
     flex-direction: column;
-    margin: 20px 0 45px 50px;
+    margin: 20px 0 45px 20%;
 }
 .shadow2 {
     z-index: 1;
