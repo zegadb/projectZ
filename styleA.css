@@ -108,15 +108,19 @@
     width: 142px;
     margin-left: 166px;
 }
-.man2 {
-    z-index: 100;
+.camera {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0 45px 50px;
 }
-.camera .shadow {
+.shadow2 {
     z-index: 1;
-    margin-top: -10px;
+    margin-top: -15px;
+    margin-left: 5px;
     width: 171px;
 }
 .man2{
+    z-index: 100;
     width: 170.55px;
     height: 160.29px;
 }
@@ -142,4 +146,8 @@
 .format h4, p{
     padding: 0;
     margin: 0;
+}
+.format p {
+    width: 66%;
+    margin-bottom: 35px;
 }
