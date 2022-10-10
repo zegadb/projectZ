@@ -1,4 +1,10 @@
 @media screen and (min-width: 992px) and (max-width: 1279px) {
-    header {
+    .part2 p {
+        font-size: 14px;
+    }
+}
+@media (min-width: 1280px) {
+    .part2 p {
+        font-size: 24px;
     }
 }
