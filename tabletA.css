@@ -1,0 +1,8 @@
+@media all and (min-width: 768) and (max-width: 991px){
+
+    .chead{
+        width: 90%px;
+        font-size: 55px;
+        font-weight: 700;
+    }
+}
