@@ -1,20 +1,21 @@
 @media screen and (min-width: 1280px) {
 
         .cart-program{   
-        min-width: 231.09px;
-        min-height: 189.97px;
-        margin-left: 35px;
+        min-width: 365px;
+        min-height: 63px;
+        margin-left: 65px;
+        margin-bottom: 200px;
         }
         .cart-program-title {
-            font-size: 17px;
+            font-size: 30px;
             line-height: 130%;
     
         }
         .card-image{
-            width: 100%;
+            width: 110%;
         }
         .cart-program-subtitle{
-            font-size: 14px;
+            font-size: 25px;
             line-height: 130%;
             
         }
