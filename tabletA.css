@@ -1,8 +1,6 @@
-@media (min-width: 991px){
+@media (min-width: 992px){
     .part5{
         padding: 70px;
-        width: 100%;
-        height: 451.75px;
     }
     .chead{
         width: 500px;
@@ -19,16 +17,15 @@
     }
     .part5 .p1{
         font-size: 14px;
-        line-height: 14.19px;
         font-weight: 400;
     }
     .part5 .p2{
+        width: 170px;
         font-size: 10x;
-        line-height: 10.14px;
         font-weight: 400;
     }
     .list .li1, .li2{
-        margin-right: 41px;
+        margin-right: 80px;
     }
     
 }
