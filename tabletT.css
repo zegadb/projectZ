@@ -105,7 +105,6 @@
         width: 90%;
         margin-right: 25px;
         
-        
     }
     
     .course-time{
@@ -130,6 +129,13 @@
          line-height: 13px;
          width: 108px;
      }
+
+
+     .what {
+        font-size: 14px;
+        line-height: 150%;
+        padding: 0 0 0 15px;
+    }
 
 
 }
