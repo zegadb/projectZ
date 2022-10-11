@@ -12,13 +12,15 @@
 
         
     }
-
+    
     .chair {
         display: flex;
         flex-direction: column;
-        width: 142px;
+        width: 21%;
         margin-left: 50%;
         margin-top: -128px;
+        
+       
     }
     .blue_quote {
         overflow: hidden;
@@ -27,7 +29,7 @@
         background-color: #1E4681;
         border-radius: 2.32986px;
         padding: 0;
-        margin-left: 150px;
+        margin-left: 170px;
         
         
     }
@@ -54,7 +56,77 @@
         margin: 8px 9px 13px 35px;
         color: #FFFFFF;    
     }
+
+    .part2{
+        padding-left: 80px;
+        padding-right: 31px;
+    }
+
+    .part2 h2{
+        margin-top: 75px;
+        font-family: Roboto Slab;
+        font-style: Bold;
+        font-size: 32px;
+        line-height: 26px;
+    }
+    .part2 p{
+        font-family: Roboto;
+        font-size: 14px;
+        line-height: 18px;
+        width: 80%;
+    }
+
+    .camera {
+        margin-top: 140px;
+        
+       
+
+    }
+    .camera2 {
+        display: block;
+        margin-top: 20px;
     
+}
+
+
+.shadow3 {
+    z-index: 1;
+    margin-top: -15px;
+    margin-left: 5px;
+    width: 171px;
+}
+    .about {
+        display: flex;
+        flex-direction: row;
+        margin-right: 92px;
+        width: 90%;
+        margin-right: 25px;
+        
+        
+    }
+    
+    .course-time{
+        display: flex;
+        flex-direction: row;
+      
+     }
+     .course-time ul{
+         list-style-type: none;
+         margin-left: 60px;
+     }
+     .course-time .duration{
+         font-family: Roboto;
+         font-size: 12px;
+         font-weight: 800;
+         line-height: 15.6px;
+     }
+     .course-time .duration1{
+         font-family: Roboto;
+         font-size: 11px;
+         font-weight: 400;
+         line-height: 13px;
+         width: 108px;
+     }
 
 
 }
