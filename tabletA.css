@@ -1,8 +1,26 @@
-@media all and (min-width: 768) and (max-width: 991px){
+@media (min-width: 768px){
 
     .chead{
-        width: 90%px;
-        font-size: 55px;
+        width: 525.88px;
+        font-size: 32px;
         font-weight: 700;
+        line-height: normal;
     }
+    .cost{
+        font-size: 14px;
+    }
+    .value{
+        font-size: 46px;
+    }
+    .part5 .p1{
+        font-size: 14px;
+        line-height: 14.19px;
+        font-weight: 400;
+    }
+    .part5 .p2{
+        font-size: 10x;
+        line-height: 10.14px;
+        font-weight: 400;
+    }
+    
 }
