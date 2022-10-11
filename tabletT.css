@@ -87,7 +87,10 @@
         margin-top: 20px;
     
 }
-
+ .man3{
+    z-index: 100
+    ;
+ }
 
 .shadow3 {
     z-index: 1;
