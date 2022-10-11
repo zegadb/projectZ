@@ -126,6 +126,9 @@ margin-left: -37px;
     width: 170.55px;
     height: 160.29px;
 }
+.camera2 {
+    display: none;
+}
 .course-time{
    display: flex;
    flex-direction: row;
