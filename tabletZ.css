@@ -1,0 +1,34 @@
+@media screen and (min-width: 992px) and (max-width: 1280px) {
+    .syng_white {
+        height: 39px;
+    }
+    .logos {
+        display: flex;
+        flex-direction: row;
+        margin: 17px 0 0 0;
+        padding: 0;
+    }
+    .contacts {
+        
+        padding-left: 0;
+        margin: 0;
+    }
+    .part6 {
+        background-color: black;
+        color: white;
+        padding: 20px 38px;
+    }
+    .part6 li {
+        display: flex;
+        flex-direction: row;
+        margin: 0 8px 4px 0;
+    }
+    .part6 li p {
+        margin: 0 0 0 10px;
+        font-size: 12px;
+    }
+    .last-item {
+        margin: 49px 0 0 0;
+        font-size: 10px;
+    }
+}
