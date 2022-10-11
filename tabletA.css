@@ -1,7 +1,9 @@
-@media (min-width: 768px){
-
+@media (min-width: 992px){
+    .part5{
+        padding: 70px;
+    }
     .chead{
-        width: 525.88px;
+        width: 500px;
         font-size: 32px;
         font-weight: 700;
         line-height: normal;
@@ -11,16 +13,19 @@
     }
     .value{
         font-size: 46px;
+        margin-bottom: 50px;
     }
     .part5 .p1{
         font-size: 14px;
-        line-height: 14.19px;
         font-weight: 400;
     }
     .part5 .p2{
+        width: 170px;
         font-size: 10x;
-        line-height: 10.14px;
         font-weight: 400;
+    }
+    .list .li1, .li2{
+        margin-right: 80px;
     }
     
 }

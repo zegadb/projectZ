@@ -1,0 +1,29 @@
+@media (min-width: 1279px){
+    .part5{
+         padding: 100px;
+    }
+    .chead{
+        width: 908px;
+        font-size: 55px;
+        line-height: normal;
+    }
+    .cost{
+        font-size: 25px;
+    }
+    .value{
+        font-size: 80px;
+    }
+    .part5 .p1{
+        font-size: 25px;
+    }
+    .part5 .p2{
+        width: 294px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .list .li1, .li2{
+        margin-right: 70px;
+        width: 294px;
+    }
+}
+    

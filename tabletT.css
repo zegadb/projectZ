@@ -1,0 +1,60 @@
+@media (min-width: 992px){
+    
+    header{
+        margin-left: 50px;
+        margin-top: -10px;
+    }
+    
+    .part1 {
+        width: 100%;
+        margin-left: 50px;
+        margin-top: -10px;
+
+        
+    }
+
+    .chair {
+        display: flex;
+        flex-direction: column;
+        width: 142px;
+        margin-left: 50%;
+        margin-top: -128px;
+    }
+    .blue_quote {
+        overflow: hidden;
+        width: 270.11px;
+        height: 115.83px;
+        background-color: #1E4681;
+        border-radius: 2.32986px;
+        padding: 0;
+        margin-left: 150px;
+        
+        
+    }
+
+    .blue_quote .text {
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 130%;
+        margin: 9px 13px 0 12px; 
+        color: #FFFFFF;
+    }
+
+
+    .blue_quote .name {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        /* or 13px */
+        text-align: right;
+        margin: 8px 9px 13px 35px;
+        color: #FFFFFF;    
+    }
+    
+
+
+}
