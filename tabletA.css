@@ -27,5 +27,11 @@
     .list .li1, .li2{
         margin-right: 80px;
     }
-    
+.format{
+    padding-left:70px;
+}
+.format h2{
+font-size: 32px;
+
+}
 }

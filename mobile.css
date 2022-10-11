@@ -37,7 +37,7 @@
 
 .list .li1, .li2{
     width: 138px;
-    font-family: Roboto;
+    font-family: 'Roboto';
     margin-right: 31px;
 }
 
@@ -49,13 +49,13 @@ margin-left: -37px;
     margin-left: auto;
 }
 .part5 .p1{
-   font-family: Roboto;
+   font-family: 'Roboto';
    font-size: 12px;
    margin-bottom: 5px;
    line-height: 101.38%;
 }
 .part5 .p2{
-   font-family: Roboto,sans-serif;
+   font-family: 'Roboto',sans-serif;
    font-size: 10px;
    line-height: 101.38%;
 }
@@ -65,18 +65,35 @@ margin-left: -37px;
 }
 .part2 h2{
     margin-top: 75px;
-    font-family: Roboto Slab;
+    font-family: 'Roboto Slab';
     font-style: Bold;
     font-size: 26px;
     line-height: 26px;
 }
-.part2 h4{
+.lesson-list{
+    display: flex;
+}
+.lesson-list ul{
+    list-style-type: none;
+}
+.lesson-list .lhead{
     color: #1E4681;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'Roboto';
+    line-height: 60px;
+}
+.lesson-list .lp{
+    margin-top: -6px;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 13px;
+    font-family: 'Roboto';
 }
 .course-time .duration {
     font-weight: 700;
     font-size: 12px;
-    line-height: 130%;
+    line-height: 13px;
 }
 .course-time ul {
     display: flex;
