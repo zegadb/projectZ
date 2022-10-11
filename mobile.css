@@ -59,6 +59,8 @@ margin-left: -37px;
    font-size: 10px;
    line-height: 101.38%;
 }
+
+/* ------------------------- */
 .part2{
     padding-left: 36px;
     padding-right: 31px;
@@ -143,6 +145,9 @@ margin-left: -37px;
     width: 170.55px;
     height: 160.29px;
 }
+.camera2 {
+    display: none;
+}
 .course-time{
    display: flex;
    flex-direction: row;
@@ -195,6 +200,7 @@ margin-left: -37px;
     flex-direction: row;
     margin: 45px 0 0 0;
     padding: 0;
+    size: 20px;
 }
 .part1 li p {
     margin: 0;
@@ -393,7 +399,7 @@ body {
 header {
     padding: 36px 0 0 35px;
 }
-.syng_white {
+.sync_white {
     height: 32px;
 }
 .logos {
