@@ -242,12 +242,12 @@ margin-left: -37px;
     margin: auto;
     margin-bottom: 20px;
 }
-.cart-adapt {
+/* .cart-adapt {
     display: flex;
     justify-content: center;
     flex-direction: column;
     flex-wrap:wrap; 
-}
+} */
 .cart-program{
     max-height: 152.84px;
     margin: 20px;
@@ -297,6 +297,7 @@ margin-left: -37px;
     color: black;
 }
 .part4{
+    /* margin: auto; */
     width: 100%;
     height: 423px;
     left: -1px;
