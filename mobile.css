@@ -260,7 +260,7 @@ margin-left: -37px;
     margin: 14px auto;
     float: left;
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25); 
-    margin-left: 85px; 
+    /* margin-left: 35px;  */
 }
 .cart-body{
     padding: 5px;
