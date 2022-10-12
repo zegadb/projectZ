@@ -271,6 +271,125 @@ span {
     color: #FFFFFF;    
 }
 
+/* -------------------------------------------------- */
+.part3{
+    margin-top: 120px;
+    margin-bottom: 52px;
+    box-sizing: border-box;
+}
+.card-program-list{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 0 95px 0 95px;
+}
+.cart-program{
+    border-radius: 13.9792px; 
+    float: left;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25); 
+    width: 185px;
+    height: 152px;
+    margin-right: 14px;
+    margin-bottom: 28px;
+}
+.cart-body{
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.cart-program-title{
+    margin-top: -8px;
+    width: 170px;
+    margin-left: 5px;
+    height: 33.08px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 97%;
+}
+.cart-program-subtitle{
+    width: 250.08px;
+    margin-top: -25px;
+    margin-left: 5px;
+    height: 29.36px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 130%;
+}
+.part3 h1{
+    width: 600.7px;
+    height: 43.34px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+    color: black;
+    padding: 0 34px 0 34px;
+}
+.part4{
+    width: 100%;
+    padding-bottom: 40px;
+    background: #EFEFEF;
+}
+.big-card{
+    width: 40vw;
+    background: #FFFFFF;
+    box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
+    border-radius: 13.9792px;
+    padding-bottom: 40px;
+    padding-right: 30px;
+    margin-left: 36px;
+}
+.big-card-comment{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    margin-left: 21px;
+    padding-top: 18.47px;
+    color: #000000;
+}
+.profile-photo{
+    width: 80px;
+    height: 84px;
+    margin-left: 21px;
+    margin-top: 13px;
+}
+.facebook-big-card{
+    width: 14.91px;
+    height: 17.2px;
+    margin-left: 114.63px;
+    margin-top: -40.54px;
+}
+.commenter{
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 101.38%;
+    color: #000000;
+    margin-left: 114.63px;
+    margin-top: -70.74px;
+}
+.big-card-title{
+    width: 100%;
+    height: 69px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+    color: #000000;
+    padding-top: 42px;
+    margin-left: 36px;
+}
+
+.card-image{
+    margin-top: -20px;
+    width: 185px;
+    height: 94px;
+}
+
 /* ----------------------------------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 html,body {
