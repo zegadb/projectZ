@@ -17,14 +17,11 @@
         margin-right: 5px;
         width: 22px;
         height: 21px;
-
-
     }
 
     .part1 p {
         font-size: 20px;
-        font-weight: 400px;
-        
+        font-weight: 400px;     
     }
     .part1 h1 {
         margin: 0;
@@ -41,20 +38,15 @@
         width: 304px;
         margin-left: 800px;
         margin-top: -240px;
-        
-
-
     }
     .blue_quote {
         overflow: hidden;
-        
         background-color: #1E4681;
         border-radius: 2.32986px;
         padding: 0;
         margin-left: 296px;
         width: 483.63px;
        height: 200.02px;
-
     }
 
     .blue_quote .text {
@@ -66,8 +58,6 @@
         margin: 9px 13px 0 12px; 
         color: #FFFFFF;
     }
-
-
     .blue_quote .name {
         font-family: 'Roboto';
         font-style: normal;
