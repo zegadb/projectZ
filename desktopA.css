@@ -1,4 +1,4 @@
-@media (min-width: 1279px){
+@media (min-width: 1280px){
     .part5{
          padding: 100px;
     }
@@ -24,6 +24,36 @@
     .list .li1, .li2{
         margin-right: 70px;
         width: 294px;
+    }
+    .lesson-list ul{
+        display: flex;
+        flex-direction: row;
+    }
+    .format {
+        padding: 0;
+    }
+    .format h4{
+        padding: 0;
+        margin: 0;
+    }
+    .lesson p {
+        width: 43%;
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
+    }
+    .lesson2 p{
+        width: 43%;
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
+    }
+    .sentence2 {
+        display: inline-block;
+        width: 100%;
+    }
+    .lesson3 p {
+        width: 49%;
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
     }
 }
     
