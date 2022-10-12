@@ -58,11 +58,26 @@
     .part2 p{
         font-family: Roboto;
         font-size: 14px;
-        line-height: 18px;
-        width: 80%;
+        line-height: 22px;
+        width: 60%;
     }
     .camera {
-        margin-top: 140px;
+        margin-top: -180px;
+    }
+
+    .man2{
+        z-index: 100;
+        width: 190.55px;
+        height: 190.29px;
+        margin-left: 450px;
+        margin-top: -10px;
+    }
+
+    .shadow2 {
+        z-index: 1;
+        width: 191px;
+        margin-left: 450px;
+        margin-top: -10px;
     }
     .camera2 {
         display: block;
@@ -70,13 +85,13 @@
     }
     .man3{
         z-index: 100;
-        width: 232px;
+        width: 182px;
        height: 203px;
     }
     .shadow3 {
         z-index: 1;
-        margin-top: -15px;
-        margin-left: 5px;
+        margin-top: -65px;
+        margin-left: -175px;
         width: 171px;
     }
     .about {
@@ -89,6 +104,8 @@
     .course-time{
     display: flex;
     flex-direction: row; 
+    margin-left: 300px;
+    margin-top: -100px;
     }
     .course-time ul{
         list-style-type: none;
@@ -98,7 +115,7 @@
         font-family: Roboto;
         font-size: 12px;
         font-weight: 800;
-        line-height: 15.6px;
+        line-height: 30.6px;
     }
     .course-time .duration1{
         font-family: Roboto;
