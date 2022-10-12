@@ -35,7 +35,7 @@
     .chair {
         display: flex;
         flex-direction: column;
-        width: 304px;
+        width: 364px;
         margin-left: 800px;
         margin-top: -240px;
     }
@@ -69,7 +69,62 @@
         color: #FFFFFF;    
     }
 
+    .part2 h2{
+        margin-top: 75px;
+        font-family: 'Roboto Slab';
+        font-style: Bold;
+        font-size: 55px;
+        font-weight: 700px;
+        line-height: 26px;
+        margin-top: 200px;
+       
+    }
 
+
+    .part2 p{
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 151.38%;
+        width: 50%;
+        margin-top: 50px;
+    }
+    
+    .camera {
+        display: flex;
+        flex-direction: column;
+        margin: 20px 0 45px 20%;
+       
+    }
+
+    .man2{
+        z-index: 100;
+        width: 364px;
+        height: 364%;
+        margin-left: 750px;
+        margin-top: -410px;
+    }
+    
+    .camera2 {
+        display: none;
+    }
+    .shadow2 {
+        z-index: 1;
+        margin-top: -35px;
+        margin-left: 740px;
+        width: 400px;
+    }
+    .man3{
+        z-index: 100
+        ;
+    }
+    .shadow3 {
+        z-index: 1;
+        margin-top: -15px;
+        margin-left: 5px;
+        width: 171px;
+    }
+    
 
 
 
