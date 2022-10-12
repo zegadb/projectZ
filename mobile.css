@@ -75,6 +75,8 @@ margin-left: -37px;
     display: flex;
 }
 .lesson-list ul{
+    display: flex;
+    flex-direction: column;
     list-style-type: none;
     /* display: inline-block; */
     padding: 0;
