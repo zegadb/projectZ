@@ -25,10 +25,6 @@
         margin-right: 70px;
         width: 294px;
     }
-    .lesson-list ul{
-        display: flex;
-        flex-direction: row;
-    }
     .format {
         padding: 0 0 0 0;
     }
@@ -65,7 +61,10 @@
     }
     .format h2{
         font-size: 55px;
-        margin-bottom: 100px;
+        margin-bottom: 90px;
+    }
+    .format ul {
+        
     }
 }
     
