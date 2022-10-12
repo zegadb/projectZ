@@ -17,14 +17,11 @@
         margin-right: 5px;
         width: 22px;
         height: 21px;
-
-
     }
 
     .part1 p {
         font-size: 20px;
-        font-weight: 400px;
-        
+        font-weight: 400px;     
     }
     .part1 h1 {
         margin: 0;
@@ -38,23 +35,18 @@
     .chair {
         display: flex;
         flex-direction: column;
-        width: 304px;
+        width: 364px;
         margin-left: 800px;
         margin-top: -240px;
-        
-
-
     }
     .blue_quote {
         overflow: hidden;
-        
         background-color: #1E4681;
         border-radius: 2.32986px;
         padding: 0;
         margin-left: 296px;
         width: 483.63px;
        height: 200.02px;
-
     }
 
     .blue_quote .text {
@@ -66,8 +58,6 @@
         margin: 9px 13px 0 12px; 
         color: #FFFFFF;
     }
-
-
     .blue_quote .name {
         font-family: 'Roboto';
         font-style: normal;
@@ -79,7 +69,102 @@
         color: #FFFFFF;    
     }
 
+    .part2 h2{
+        margin-top: 75px;
+        font-family: 'Roboto Slab';
+        font-style: Bold;
+        font-size: 55px;
+        font-weight: 700px;
+        line-height: 26px;
+    }
+    .part2 {
+        padding: 0 121px;
+    }
+    .knowledge {
+        margin: 0 0 55px 0;
+        padding: 0 0 0 0;
+    }
+    .what{
+        margin-bottom: 100px;
+        font-size: 24px;
+        line-height: 36px;
+        margin: 0 0 230px 0;
+        padding: 0 0 0 22px;
+    }
+    .part2 p {
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 151.38%;
+        width: 50%;
+    }
+    
+    .camera {
+        display: flex;
+        flex-direction: column;
+        margin: 20px 0 45px 20%;
+       
+    }
 
+    .man2{
+        z-index: 100;
+        width: 364px;
+        height: 364%;
+        margin-left: 750px;
+        margin-top: -410px;
+    }
+    
+    .camera2 {
+        display: block;
+    }
+    .shadow2 {
+        z-index: 1;
+        margin-top: -35px;
+        margin-left: 740px;
+        width: 400px;
+    }
+    .man3{
+        z-index: 100;
+        width: 232px;
+       height: 203px;
+       margin-left: 10px;
+       margin-top: 80px
+    }
+    .shadow3 {
+        z-index: 2;
+        margin-top: -15px;
+        margin-left: -195px;
+        width: 171px;
+    }
+    .course-time{
+        display: flex;
+        flex-direction: row; 
+        }
+        .course-time ul{
+            list-style-type: none;
+            margin-left: 560px;
+            margin-top: -90px;
+        }
+        .course-time .duration{
+            font-family: Roboto;
+            font-size: 25px;
+            font-weight: 700;
+            line-height: 25.6px;
+            font-family: 'Roboto';
+            width: 200px;
+
+        }
+        .course-time .duration1{
+            font-family: Roboto;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 13px;
+            width: 258px;
+      line-height: 130%;
+      margin-top: 15px;
+        }
+    
+    
 
 
 

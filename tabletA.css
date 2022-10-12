@@ -1,4 +1,4 @@
-@media (min-width: 992px){
+@media screen and (min-width: 992px) and (max-width: 1280px) {
     .part5{
         padding: 70px;
     }
@@ -27,11 +27,19 @@
     .list .li1, .li2{
         margin-right: 80px;
     }
-.format{
-    padding-left:70px;
-}
-.format h2{
-font-size: 32px;
-
-}
+   .format{
+        padding-left:70px;
+    }
+    .format h2{
+        font-size: 32px;
+    }
+     .knowledge{
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 37px;
+    }
+    .what{
+        font-size: 15px;
+        line-height: 20px;
+    }
 }

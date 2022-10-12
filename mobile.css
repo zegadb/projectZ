@@ -33,16 +33,14 @@
     list-style-type: none;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0;
 }
 
 .list .li1, .li2{
     width: 138px;
     font-family: 'Roboto';
     margin-right: 31px;
-}
-
-.list .li1{
-margin-left: -37px;
 }
 
 .li2{
@@ -62,8 +60,7 @@ margin-left: -37px;
 
 /* ------------------------- */
 .part2{
-    padding-left: 36px;
-    padding-right: 31px;
+    padding: 0 36px;
 }
 .part2 h2{
     margin-top: 75px;
@@ -76,20 +73,29 @@ margin-left: -37px;
     display: flex;
 }
 .lesson-list ul{
+    display: flex;
+    flex-direction: column;
     list-style-type: none;
+    /* display: inline-block; */
+    padding: 0;
+    margin: 0;
 }
 .lesson-list .lhead{
     color: #1E4681;
     font-size: 12px;
     font-weight: 700;
+    line-height: 1px;
     font-family: 'Roboto';
 }
 .lesson-list .lp{
-    margin-top: -6px;
     font-size: 10px;
     font-weight: 400;
     line-height: 13px;
     font-family: 'Roboto';
+}
+.lesson, .lesson2, .lesson3{
+    margin: 0;
+    padding: 0;
 }
 .course-time .duration {
     font-weight: 700;
@@ -112,9 +118,16 @@ margin-left: -37px;
 .course-time .duration1 {
     margin: 0 0 34px 0;
 }
+.knowledge{
+    font-size: 26px;
+    font-weight: 700;
+    margin: 0 0 25px 0;
+    padding: 0 0 0 0;
+}
 .what {
     font-size: 12px;
     line-height: 150%;
+    margin: 0 0 65px 0;
     padding: 0 0 0 15px;
 }
 .part2 p{
@@ -166,13 +179,12 @@ margin-left: -37px;
     font-weight: 400;
     line-height: 13px;
 }
-.format h4{
-    padding: 0;
-    margin: 0;
-}
 .format p {
-    width: 66%;
-    margin-bottom: 0 0 35px 0;
+    margin: 0 0 35px 0;
+    width: 57%;
+}
+span {
+    display: none;
 }
 /* ----------------------------------------------- */
 .part1 {
@@ -279,9 +291,9 @@ header {
     margin: 13px 0 0 0;
     padding: 0;
 }
-.contacts {
+.contacts_mobile {
     padding-left: 0;
-    margin-top: 47.66px;
+    margin-top: 48px;
 }
 .part6 {
     background-color: black;
@@ -291,13 +303,23 @@ header {
 .part6 li {
     display: flex;
     flex-direction: row;
-    margin: 0 8px 4px 0;
+    margin: 0 8px 10px 0;
 }
-.part6 li p {
+.contacts_mobile p {
     margin: 0 0 0 10px;
     font-size: 12px;
 }
 .last-item {
     margin: 49px 0 0 0;
     font-size: 10px;
+}
+@media (min-width: 440px) {
+    .chead{
+        width: 500px;
+    }
+}
+@media (max-width: 991px) {
+    .contacts {
+        display: none;
+    }
 }
