@@ -75,6 +75,8 @@ margin-left: -37px;
     display: flex;
 }
 .lesson-list ul{
+    display: flex;
+    flex-direction: column;
     list-style-type: none;
     /* display: inline-block; */
     padding: 0;
@@ -426,7 +428,7 @@ header {
     flex-direction: row;
     margin: 0 8px 4px 0;
 }
-.part6 li p {
+.contacts p {
     margin: 0 0 0 10px;
     font-size: 12px;
 }
