@@ -266,35 +266,27 @@ span {
     margin: 0 9px 13px 0;
     color: #FFFFFF;    
 }
+
 /* -------------------------------------------------- */
 .part3{
-    clear: both;
-    overflow: auto;
-    padding: 0.01em 16px;
-    margin-left: 15px;
-    margin: auto;
-    margin-bottom: 20px;
+    margin-top: 120px;
+    margin-bottom: 52px;
+    box-sizing: border-box;
 }
-/* .cart-adapt {
+.card-program-list{
     display: flex;
-    justify-content: center;
-    flex-direction: column;
-    flex-wrap:wrap; 
-} */
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 0 95px 0 95px;
+}
 .cart-program{
-    max-height: 152.84px;
-    margin: 20px;
-    display: block;
-    max-width: 185.92px;
-    left: 95px;
-    top: 3287px;
     border-radius: 13.9792px; 
-    margin-top: 5px;
-    margin-bottom: 4px;
-    margin: 14px auto;
     float: left;
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25); 
-    /* margin-left: 35px;  */
+    width: 185px;
+    height: 152px;
+    margin-right: 14px;
+    margin-bottom: 28px;
 }
 .cart-body{
     padding: 5px;
@@ -303,7 +295,7 @@ span {
 }
 .cart-program-title{
     margin-top: -8px;
-    width: 170.08px;
+    width: 170px;
     margin-left: 5px;
     height: 33.08px;
     font-weight: 700;
@@ -311,7 +303,7 @@ span {
     line-height: 97%;
 }
 .cart-program-subtitle{
-    width: 170.08px;
+    width: 250.08px;
     margin-top: -25px;
     margin-left: 5px;
     height: 29.36px;
@@ -320,45 +312,39 @@ span {
     line-height: 130%;
 }
 .part3 h1{
-    margin: 0;
-    padding: 0 0 0 20px;
+    width: 600.7px;
+    height: 43.34px;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 101.38%;
     color: black;
+    padding: 0 34px 0 34px;
 }
 .part4{
-    /* margin: auto; */
     width: 100%;
-    height: 423px;
-    left: -1px;
+    padding-bottom: 40px;
     background: #EFEFEF;
-
 }
 .big-card{
-    width: 308px;
-    height: 248px;
+    width: 40vw;
     background: #FFFFFF;
     box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
     border-radius: 13.9792px;
+    padding-bottom: 40px;
+    padding-right: 30px;
     margin-left: 36px;
-
 }
 .big-card-comment{
-    width: 266px;
-    height: 111.01px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
-    line-height: 150%;
     margin-left: 21px;
     padding-top: 18.47px;
     color: #000000;
 }
-
 .profile-photo{
     width: 80px;
     height: 84px;
@@ -372,8 +358,6 @@ span {
     margin-top: -40.54px;
 }
 .commenter{
-    width: 164.49px;
-    height: 14.73px;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
@@ -384,7 +368,7 @@ span {
     margin-top: -70.74px;
 }
 .big-card-title{
-    width: 257px;
+    width: 100%;
     height: 69px;
     font-family: 'Roboto Slab';
     font-style: normal;
@@ -395,6 +379,13 @@ span {
     padding-top: 42px;
     margin-left: 36px;
 }
+
+.card-image{
+    margin-top: -20px;
+    width: 185px;
+    height: 94px;
+}
+
 /* ----------------------------------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 html,body {
