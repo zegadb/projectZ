@@ -1,4 +1,4 @@
-@media (min-width: 992px){
+@media screen and (min-width: 992px) and (max-width: 1280px) {
     header{
         margin-left: 50px;
         margin-top: -10px;
@@ -48,7 +48,6 @@
         padding: 0 70px;
     }
     .part2 h2{
-        margin-top: 75px;
         font-family: Roboto Slab;
         font-style: Bold;
         font-size: 32px;
@@ -94,17 +93,17 @@
         width: 171px;
     }
     .about {
-    display: flex;
-    flex-direction: row;
-    margin-right: 92px;
-    width: 90%;
-    margin-right: 25px;  
+        display: flex;
+        flex-direction: row;
+        margin-right: 92px;
+        width: 90%;
+        margin-right: 25px;  
     }
     .course-time{
-    display: flex;
-    flex-direction: row; 
-    margin-left: 300px;
-    margin-top: -100px;
+        display: flex;
+        flex-direction: row; 
+        margin-left: 300px;
+        margin-top: -100px;
     }
     .course-time ul{
         list-style-type: none;
@@ -122,5 +121,12 @@
         font-weight: 400;
         line-height: 13px;
         width: 108px;
+    }
+    .format {
+        margin: 0;
+        padding: 0;
+    }
+    .format ul {
+        flex-direction: row;
     }
 }
