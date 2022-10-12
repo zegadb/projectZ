@@ -33,16 +33,14 @@
     list-style-type: none;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0;
 }
 
 .list .li1, .li2{
     width: 138px;
     font-family: 'Roboto';
     margin-right: 31px;
-}
-
-.list .li1{
-margin-left: -37px;
 }
 
 .li2{
