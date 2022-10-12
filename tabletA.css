@@ -27,11 +27,20 @@
     .list .li1, .li2{
         margin-right: 80px;
     }
-.format{
+   .format{
     padding-left:70px;
-}
-.format h2{
-font-size: 32px;
-
-}
+    }
+    .format h2{
+     font-size: 32px;
+    }
+     .knowledge{
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 37px;
+    }
+    .what{
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 50px;
+    }
 }

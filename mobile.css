@@ -63,7 +63,6 @@ margin-left: -37px;
 /* ------------------------- */
 .part2{
     padding-left: 36px;
-    padding-right: 31px;
 }
 .part2 h2{
     margin-top: 75px;
@@ -76,20 +75,29 @@ margin-left: -37px;
     display: flex;
 }
 .lesson-list ul{
+    display: flex;
+    flex-direction: column;
     list-style-type: none;
+    /* display: inline-block; */
+    padding: 0;
+    margin: 0;
 }
 .lesson-list .lhead{
     color: #1E4681;
     font-size: 12px;
     font-weight: 700;
+    line-height: 1px;
     font-family: 'Roboto';
 }
 .lesson-list .lp{
-    margin-top: -6px;
     font-size: 10px;
     font-weight: 400;
     line-height: 13px;
     font-family: 'Roboto';
+}
+.lesson, .lesson2, .lesson3{
+margin: 0;
+padding: 0;
 }
 .course-time .duration {
     font-weight: 700;
@@ -112,10 +120,15 @@ margin-left: -37px;
 .course-time .duration1 {
     margin: 0 0 34px 0;
 }
+.knowledge{
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
 .what {
     font-size: 12px;
     line-height: 150%;
-    padding: 0 0 0 15px;
+    margin-bottom: 40px;
 }
 .part2 p{
     font-family: Roboto;
@@ -166,13 +179,12 @@ margin-left: -37px;
     font-weight: 400;
     line-height: 13px;
 }
-.format h4{
-    padding: 0;
-    margin: 0;
-}
 .format p {
-    width: 66%;
-    margin-bottom: 0 0 35px 0;
+    margin: 0 0 35px 0;
+    width: 57%;
+}
+span {
+    display: none;
 }
 /* ----------------------------------------------- */
 .part1 {
@@ -421,7 +433,7 @@ header {
     flex-direction: row;
     margin: 0 8px 4px 0;
 }
-.part6 li p {
+.contacts p {
     margin: 0 0 0 10px;
     font-size: 12px;
 }

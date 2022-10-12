@@ -1,4 +1,4 @@
-@media (min-width: 1279px){
+@media (min-width: 1280px){
     .part5{
          padding: 100px;
     }
@@ -24,6 +24,57 @@
     .list .li1, .li2{
         margin-right: 70px;
         width: 294px;
+    }
+    .lesson-list ul{
+        display: flex;
+        flex-direction: row;
+    }
+    .format {
+        padding: 0 0 0 0;
+    }
+
+    .lesson p {
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
+    }
+    .lesson2 p{
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
+    }
+    .lesson3 p {
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
+    }
+
+    .lesson-list .lp{
+        font-size: 18px;
+        line-height: 23.54px;
+        margin: 0;
+    }   
+    .lesson-list .lhead{
+        font-size: 25px;
+        line-height: 10px;
+    }
+    .sentence21 {
+        display: inline-block;
+        width: 100%;
+    }
+    .sentence22 {
+        display: inline-block;
+        width: 100%;
+    }
+    .format h2{
+        font-size: 55px;
+        margin-bottom: 100px;
+    }
+    .knowledge{
+        font-size: 55px;
+        margin-bottom: 60px;
+    }
+    .what{
+        font-size: 25px;
+        line-height: 38px;
+        margin-bottom: 100px;
     }
 }
     
