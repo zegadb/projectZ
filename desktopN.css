@@ -16,13 +16,13 @@
     }
 
     .card-image{
-        margin-top: 0px;
-        width: 399px;
+        margin-top: -9px;
+        width: 350px;
         height: 160px;
     }
 
     .cart-program {
-        width: 399px;
+        width: 350px;
         height: 328px;
         margin-right: 37px;
         margin-bottom: 72px;
