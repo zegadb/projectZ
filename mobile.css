@@ -173,7 +173,11 @@ padding: 0;
     line-height: 13px;
 }
 .format p {
-    margin-bottom: 0 0 35px 0;
+    margin: 0 0 35px 0;
+    width: 57%;
+}
+span {
+    display: none;
 }
 /* ----------------------------------------------- */
 .part1 {
