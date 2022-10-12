@@ -254,56 +254,6 @@ margin-left: -37px;
     margin: 0 9px 13px 0;
     color: #FFFFFF;    
 }
-/* -------------------------------------------------- */
-
-.part3{
-    margin-bottom: 52px;
-    box-sizing: border-box;
-}
-
-.part3 h1{
-    padding: 0 34px 0 34px;
-}
-
-.card-program-list{
-    padding: 0 95px 0 95px;
-}
-
-.cart-program {
-    width: 185px;
-    height: 152px;
-    margin-right: 14px;
-    margin-bottom: 28px;
-}
-.card-image{
-    margin-top: -20px;
-    width: 185px;
-    height: 94px;
-}
-.cart-program-title{
-    width: 50px;
-    font-size: 40px;
-}
-.cart-program-subtitle{
-    font-size: 12px;
-}
-.part3 h1{
-    font-size: 26px;
-}
-
-.big-card-comment{
-    font-size: 10px;
-}
-
-.big-card-title{
-    font-size: 26px;
-    margin-left: 36px;
-    width: 100%;
-}
-
-.big-card{
-    margin-left: 36px;
-}
 
 /* ----------------------------------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
