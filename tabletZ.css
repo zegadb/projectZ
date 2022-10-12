@@ -1,5 +1,5 @@
 @media screen and (min-width: 992px) and (max-width: 1280px) {
-    .syng_white {
+    .sync_white {
         height: 39px;
     }
     .logos {
@@ -15,7 +15,7 @@
     .part6 {
         background-color: black;
         color: white;
-        padding: 20px 38px;
+        padding: 20px 38px 20px 70px;
     }
     .part6 li {
         display: flex;
