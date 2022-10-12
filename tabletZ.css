@@ -1,33 +1,55 @@
 @media screen and (min-width: 992px) and (max-width: 1280px) {
+    .part6 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: black;
+        color: white;
+        padding: 29px 106px 27px 71px;
+        
+    }
     .sync_white {
-        height: 39px;
+        height: 40px;
+    }
+    .last-item {
+        margin: 85px 0 0 0;
+        font-size: 10px;
     }
     .logos {
         display: flex;
         flex-direction: row;
-        margin: 17px 0 0 0;
+        margin: 30px 0 0 0;
         padding: 0;
     }
     .contacts {
         padding-left: 0;
-        margin: 0;
+        margin: 5px 0 0 0;
     }
-    .part6 {
-        background-color: black;
-        color: white;
-        padding: 20px 38px 20px 70px;
-    }
-    .part6 li {
+    .contacts li {
         display: flex;
         flex-direction: row;
-        margin: 0 8px 4px 0;
+        margin: 0 0 15px 0;
     }
-    .part6 li p {
-        margin: 0 0 0 10px;
-        font-size: 12px;
+    .contacts_mobile {
+        display: none;
     }
-    .last-item {
-        margin: 49px 0 0 0;
-        font-size: 10px;
+    .contacts p {
+        font-size: 15px;
+        margin: 0 0 0 22px;
+    }
+    .phone, .mail {
+        width: 16px;
+    }
+    .insta {
+        width: 20px;
+    }
+    .fb {
+        width: 20px;
+    }
+    .vk {
+        width: 21px;
+    }
+    .viber {
+        width: 20px;
     }
 }
