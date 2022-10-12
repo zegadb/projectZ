@@ -1,23 +1,59 @@
 @media screen and (min-width: 1280px) {
 
-        .cart-program{   
-        min-width: 365px;
-        min-height: 63px;
-        margin-left: 65px;
-        margin-bottom: 200px;
-        }
-        .cart-program-title {
-            font-size: 30px;
-            line-height: 130%;
-    
-        }
-        .card-image{
-            width: 110%;
-        }
-        .cart-program-subtitle{
-            font-size: 25px;
-            line-height: 130%;
-            
-        }
+    .part3{
+        margin-top: 200px;
+        margin-bottom: 121px;
+        box-sizing: border-box;
     }
+
+    .part3 h1{
+        padding: 0 121px 0 121px;
+    }
+
+    .card-program-list{
+        margin-top: 95px;
+        padding: 0 84px 0 84px;
+    }
+
+    .card-image{
+        margin-top: 0px;
+        width: 399px;
+        height: 160px;
+    }
+
+    .cart-program {
+        width: 399px;
+        height: 328px;
+        margin-right: 37px;
+        margin-bottom: 72px;
+        border-radius: 30px;
+    }
+
+    .cart-program-title{
+        width: 100%;
+        font-size: 30px;
+    }
+
+    .cart-program-subtitle{
+        font-size: 25px;
+    }
+
+    .part3 h1{
+        font-size: 55px;
+    }
+
+    .big-card-comment{
+        font-size: 20px;
+    }
+
+    .big-card-title{
+        font-size: 55px;
+        margin-left: 122px;
+        width: 100%;
+    }
+    
+    .big-card{
+        margin-left: 122px;
+    }
+}
     
