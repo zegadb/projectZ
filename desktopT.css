@@ -1,4 +1,4 @@
-@media (min-width:1279px){
+@media (min-width: 1280px){
 
     .part1 {
         padding: 0 121px;
@@ -150,7 +150,7 @@
         }
         .course-time ul{
             list-style-type: none;
-            margin-left: 560px;
+            margin-left: 350px;
             margin-top: -90px;
         }
         .course-time .duration{
