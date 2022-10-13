@@ -84,18 +84,18 @@
         margin-top: -10px;
     }
     .camera2 {
-        display: block;
+        display: flex;
+        flex-direction: column;
         margin-top: 20px;
     }
     .man3{
-        z-index: 100;
+        z-index: 2;
         width: 182px;
        height: 203px;
     }
     .shadow3 {
         z-index: 1;
-        margin-top: -65px;
-        margin-left: -175px;
+        margin: -38px 0 0 13px;
         width: 171px;
     }
     .about {
