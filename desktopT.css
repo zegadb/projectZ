@@ -1,5 +1,11 @@
 @media (min-width:1279px){
 
+    .part1 {
+        padding: 0 121px;
+    }
+    header {
+        padding: 21px 121px 0;
+    }
     .sync {
         width: 112px;
     }
