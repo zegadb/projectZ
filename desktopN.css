@@ -1,4 +1,4 @@
-@media screen and (min-width: 1280px) {
+@media (min-width: 1280px) {
 
     .part3{
         margin-top: 200px;
@@ -41,11 +41,11 @@
     .part3 h1{
         font-size: 55px;
     }
-
     .big-card-comment{
         font-size: 20px;
+        margin: 0;
+        padding: 0;
     }
-
     .big-card-title{
         font-size: 55px;
         margin-left: 122px;
@@ -54,6 +54,20 @@
     
     .big-card{
         margin-left: 122px;
+        padding: 40px;
+        min-width: 610px;
+    }
+    .profile-photo {
+        width: 180px;
+    }
+    .facebook-big-card {
+        margin: 60px 0 0 250px;
+        width: 32px;
+        height: 31px;
+    }
+    .commenter {
+        font-size: 30px;
+        margin: -150px 0 0 250px;
     }
 }
     
