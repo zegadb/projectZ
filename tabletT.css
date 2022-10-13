@@ -1,28 +1,30 @@
 @media screen and (min-width: 992px) and (max-width: 1280px) {
-    header{
-        margin-left: 50px;
-        margin-top: -10px;
+header{
+ margin-left: 50px;
+ margin-top: -10px;
     } 
-    .part1 {
-        width: 100%;
-        margin-left: 50px;
-        margin-top: -10px;   
+ 
+ .part1 {
+ width: 100%;
+ margin-left: 50px;
+ margin-top: -10px;   
     }
-    .chair {
-        display: flex;
-        flex-direction: column;
-        width: 21%;
+    
+ .chair {
+ display: flex;
+ flex-direction: column;
+ width: 21%;
         margin-left: 50%;
         margin-top: -128px;
     }
     .blue_quote {
-        overflow: hidden;
-        width: 275.11px;
-        height: 115.83px;
-        background-color: #1E4681;
-        border-radius: 2.32986px;
-        padding: 0;
-        margin-left: 170px;    
+   overflow: hidden;
+   width: 275.11px;
+   height: 115.83px;
+   background-color: #1E4681;
+   border-radius: 2.32986px;
+   padding: 0;
+   margin-left: 170px;    
     }
     .blue_quote .text {
         font-family: 'Roboto Slab';
