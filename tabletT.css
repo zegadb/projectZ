@@ -47,20 +47,26 @@
     .part2{
         padding: 0 70px;
     }
+
+    .part2 .about{
+        flex-direction: column;
+    }
     .part2 h2{
         font-family: Roboto Slab;
         font-style: Bold;
-        font-size: 32px;
+        font-size: 35px;
         line-height: 26px;
     }
     .part2 p{
         font-family: Roboto;
-        font-size: 14px;
-        line-height: 22px;
+        font-size: 15px;
+        line-height: 21px;
+        font-weight: 500;
         width: 60%;
+        
     }
     .camera {
-        margin-top: -180px;
+        margin-top: -190px;
     }
 
     .man2{
