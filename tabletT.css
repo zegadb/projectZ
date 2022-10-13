@@ -16,13 +16,13 @@
         margin-top: -128px;
     }
     .blue_quote {
-   overflow: hidden;
-   width: 275.11px;
-   height: 115.83px;
-   background-color: #1E4681;
-   border-radius: 2.32986px;
-   padding: 0;
-   margin-left: 170px;    
+        overflow: hidden;
+        width: 275.11px;
+        height: 115.83px;
+        background-color: #1E4681;
+        border-radius: 2.32986px;
+        padding: 0;
+        margin-left: 170px;    
     }
     .blue_quote .text {
         font-family: 'Roboto Slab';
@@ -39,7 +39,6 @@
         font-weight: 400;
         font-size: 11px;
         line-height: 130%;
-    
         text-align: right;
         margin: 8px 9px 13px 35px;
         color: #FFFFFF;    
@@ -61,13 +60,11 @@
         font-family: Roboto;
         font-size: 15px;
         line-height: 21px;
-        width: 60%;
-        
+        width: 60%;   
     }
     .camera {
         margin: -190px 0 0 170px;
     }
-
     .man2{
         z-index: 100;
         width: 190.55px;
