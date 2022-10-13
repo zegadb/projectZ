@@ -121,7 +121,8 @@
     }
     
     .camera2 {
-        display: block;
+        display: flex;
+        flex-direction: column;
     }
     .shadow2 {
         z-index: 1;
@@ -130,17 +131,18 @@
         width: 400px;
     }
     .man3{
-        z-index: 100;
+        display: block;
+        z-index: 30;
         width: 232px;
        height: 203px;
        margin-left: 10px;
        margin-top: 80px
     }
     .shadow3 {
-        z-index: 2;
-        margin-top: -15px;
-        margin-left: -195px;
-        width: 171px;
+        display: block;
+        margin: -20px 0 0 45px;
+        padding: 0;
+        width: 189px;
     }
     .course-time{
         display: flex;
