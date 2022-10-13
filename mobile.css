@@ -171,9 +171,6 @@
 .course-time{
    margin: 0 0 160px 0;
 }
-.course-time ul{
-    list-style-type: none;
-}
 .course-time .duration{
     font-family: Roboto;
     font-size: 12px;
@@ -278,19 +275,20 @@ span {
     box-sizing: border-box;
 }
 .card-program-list{
-    margin: 0 auto;
-    /* justify-content: left; */
-    /* flex-flow: row wrap; */
-    /* justify-content: flex-start; */
-    /* flex-wrap: wrap; */
+    display: inline-block;
+    justify-content: left;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    flex-wrap: wrap;
     padding: 0 95px 0 95px;
 }
 .allcards {
     display: flex;
     justify-content: center;
+    justify-self: center;
+    width: fit-content;
 }
 .cart-program{
-    display: inline-block;
     border-radius: 13.9792px; 
     float: left;
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25); 
@@ -461,6 +459,11 @@ header {
 
     }
 }
+@media screen and (min-width: 396px) and (max-width: 992px) {
+    .course-time ul {
+        justify-content: space-evenly;
+    }
+}
 @media screen and (min-width: 376px) and (max-width: 992px) {
     .chair {
         margin: 0 0 0 44vw;       
@@ -474,6 +477,9 @@ header {
     }
     .part1 ul p {
         font-size: 12px;
+    }
+    .camera {
+        margin: 20px 0 45px 35%;
     }
     .kak p {
         font-size: 12px;

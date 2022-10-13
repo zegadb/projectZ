@@ -142,9 +142,6 @@
         display: flex;
         flex-direction: row; 
     }
-    .course-time ul{
-        list-style-type: none;
-    }
     .course-time li:first-child {
         margin: 0 90px 0 0;
     }

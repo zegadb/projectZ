@@ -117,9 +117,7 @@
         margin: 0 0 100px 0;
     }
     .course-time ul{
-        display: flex;
         align-items: center;
-        list-style-type: none;
         margin: 0;
         padding: 0;
     }
