@@ -339,6 +339,7 @@ span {
     padding-bottom: 40px;
     padding-right: 30px;
     margin-left: 36px;
+    min-width: 220px;
 }
 .big-card-comment{
     font-family: 'Roboto';
@@ -444,5 +445,14 @@ header {
 @media (max-width: 991px) {
     .contacts {
         display: none;
+    }
+    .course-time li:first-child {
+        position: absolute;
+
+    }
+}
+@media screen and (min-width: 375px) and (max-width: 992px) {
+    .lesson-list ul{
+        flex-direction: row;
     }
 }
