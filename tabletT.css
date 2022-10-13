@@ -135,4 +135,7 @@
     .format ul {
         flex-direction: row;
     }
+    .h2_format {
+        margin: 0 0 40px 0;
+    }
 }
