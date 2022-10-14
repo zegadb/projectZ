@@ -514,3 +514,10 @@ header {
         max-width: 384px;
     }
 }
+@media (max-width: 786px)
+{
+    .card-program-list
+    {
+        justify-content: center;
+    }
+}
