@@ -148,4 +148,8 @@
     .h2_format {
         margin: 0 0 40px 0;
     }
+    .lesson-list .lp {
+        font-size: 12px;
+        line-height: 15px;
+    }
 }
