@@ -245,7 +245,7 @@ span {
     background-color: #1E4681;
     border-radius: 2.32986px;
     padding: 0;
-    margin: 39px 0 0 0;
+    margin: 39px 0 70px 0;
 }
 .blue_quote .text {
     font-family: 'Roboto Slab';
@@ -465,12 +465,15 @@ header {
     }
 }
 @media screen and (min-width: 376px) and (max-width: 992px) {
+    .sync {
+        width: 65px;
+    }
     .chair {
         margin: 0 0 0 44vw;       
     }
     .blue_quote
     {
-        margin: 39px 0 0 15vw;
+        margin: 39px 0 70px 15vw;
     }
     .lesson-list ul{
         flex-direction: row;
@@ -490,6 +493,9 @@ header {
     .big-card-comment 
     {
         font-size: 13px;
+    }
+    .course-time {
+        margin-bottom: 50px;
     }
 }
 @media screen and (min-width: 320px) and (max-width: 375px) {
