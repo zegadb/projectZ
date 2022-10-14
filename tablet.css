@@ -1,0 +1,322 @@
+/* TARLAN PART */
+@media screen and (min-width: 992px) and (max-width: 1280px) {
+    header{
+        margin: 0;
+        padding: 26px 0 0 70px;
+    } 
+    .part1 {
+        width: 100%;
+        margin: 0;
+        padding: 0 70px;
+    }
+    .sync {
+        width: 70px;
+    }
+    .part1 p {
+        font-size: 14px;
+    }
+    .how span {
+        display: none;
+    }
+    .chair {
+        display: flex;
+        flex-direction: column;
+        width: 21%;
+        margin-left: 50%;
+        margin-top: -128px;
+    }
+    .blue_quote {
+        overflow: hidden;
+        width: 275.11px;
+        height: 115.83px;
+        background-color: #1E4681;
+        border-radius: 2.32986px;
+        padding: 0;
+        margin-left: 170px;    
+    }
+    .blue_quote .text {
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 130%;
+        margin: 9px 13px 0 12px; 
+        color: #FFFFFF;
+    }
+    .blue_quote .name {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        text-align: right;
+        margin: 8px 9px 13px 35px;
+        color: #FFFFFF;    
+    }
+    .part2{
+        padding: 0 70px;
+    }
+
+    .part2 .about{
+        flex-direction: column;
+    }
+    .part2 h2{
+        font-family: Roboto Slab;
+        font-style: Bold;
+        font-size: 35px;
+        line-height: 26px;
+    }
+    .part2 p{
+        font-family: Roboto;
+        font-size: 15px;
+        line-height: 21px;
+        width: 60%;   
+    }
+    .camera {
+        margin: -190px 0 0 170px;
+    }
+    .man2{
+        z-index: 100;
+        width: 190.55px;
+        height: 190.29px;
+        margin-left: 450px;
+        margin-top: -10px;
+
+    }
+    .shadow2 {
+        z-index: 1;
+        width: 191px;
+        margin-left: 450px;
+        margin-top: -10px;
+
+    }
+    .camera2 {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+    }
+    .man3{
+        z-index: 2;
+        height: 118px;
+        width: 135px;
+    }
+    .shadow3 {
+        z-index: 1;
+        margin: -12px 0 0 18px;
+        width: 109px;
+    }
+    .about {
+        display: flex;
+        flex-direction: row;
+        margin-right: 92px;
+        width: 90%;
+        margin-right: 25px;  
+    }
+    .course-time{
+        display: flex;
+        flex-direction: row;
+        margin: 0 0 100px 0;
+    }
+    .course-time ul{
+        align-items: center;
+        margin: 50px 0 0 0;
+        padding: 0;
+    }
+    .course-time li {
+        margin: 0 75px 0 0;
+    }
+    .course-time .duration{
+        margin: 0;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 800;
+        line-height: 35px;
+    }
+    .course-time .duration1{
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 16px;
+        width: 120px;
+    }
+    .format ul {
+        flex-direction: row;
+    }
+    .h2_format {
+        margin: 0 0 40px 0;
+    }
+    .lesson-list .lp {
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
+/* NAMAZ PART */
+@media screen and (min-width: 992px) and (max-width: 1280px){
+
+    .part3{
+        margin-top: 120px;
+        margin-bottom: 52px;
+        box-sizing: border-box;
+    }
+    
+    .part3 h1{
+        padding: 0 70px 0 70px;
+    }
+
+    .card-program-list{
+        margin-top: 45px;
+        padding: 0 48px 0 48px;
+    }
+
+    .cart-program {
+        width: 231.09px;
+        height: 189.97px;
+        border-radius: 17.375px;
+        margin-right: 21.43px;
+        margin-bottom: 42.75px;
+
+    }
+
+    .card-image{
+        margin-top: 0px;
+        width: 231.09px;
+        height: 92.67px;
+    }
+    
+    .cart-program-title{
+        width: 212px;
+        font-size: 17px;
+    }
+
+    .cart-program-subtitle{
+        font-size: 14px;
+    }
+
+    .part3 h1{
+        font-size: 32px;
+    }
+
+    .big-card-comment{
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .big-card-title{
+        font-size: 32px;
+        margin-left: 70px;
+        width: 100%;
+    }
+
+    .big-card{
+        margin-left: 72px;
+    }
+}
+/* ARZU PART */
+@media screen and (min-width: 992px) and (max-width: 1280px) {
+    .part5{
+        padding: 70px;
+    }
+    .chead{
+        width: 500px;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: normal;
+    }
+    .cost{
+        font-size: 14px;
+    }
+    .value{
+        font-size: 46px;
+        margin-bottom: 50px;
+    }
+    .part5 .p1{
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .part5 .p2{
+        width: 170px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .list .li1, .li2{
+        margin-right: 80px;
+    }
+   .format{
+        padding-left:70px;
+    }
+    .format {
+        margin: 0;
+        padding: 0;
+    }
+    .format h2{
+        font-size: 32px;
+    }
+     .knowledge{
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 37px;
+    }
+    .what{
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+/* ZEGA PART */
+@media screen and (min-width: 992px) and (max-width: 1280px) {
+    .part6 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: black;
+        color: white;
+        padding: 29px 106px 27px 71px;
+        
+    }
+    .sync_white {
+        height: 40px;
+    }
+    .last-item {
+        margin: 85px 0 0 0;
+        font-size: 10px;
+    }
+    .logos {
+        display: flex;
+        flex-direction: row;
+        margin: 30px 0 0 0;
+        padding: 0;
+    }
+    .contacts {
+        padding-left: 0;
+        margin: 5px 0 0 0;
+    }
+    .contacts li {
+        display: flex;
+        flex-direction: row;
+        margin: 0 0 15px 0;
+    }
+    .contacts_mobile {
+        display: none;
+    }
+    .contacts p {
+        font-size: 15px;
+        margin: 0 0 0 22px;
+    }
+    .phone, .mail {
+        width: 16px;
+    }
+    .insta {
+        width: 20px;
+    }
+    .fb {
+        width: 20px;
+    }
+    .vk {
+        width: 21px;
+    }
+    .viber {
+        width: 20px;
+    }
+    .last-item {
+        font-size: 13px;
+    }
+}

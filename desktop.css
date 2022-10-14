@@ -1,0 +1,383 @@
+/* TARLAN PART */
+@media (min-width: 1280px){
+    .part1 {
+        padding: 0 121px;
+    }
+    header {
+        padding: 21px 121px 0;
+    }
+    .sync {
+        width: 112px;
+    }
+    .how span {
+        display: inline;
+    }
+    .part1 ul {
+        display: flex;
+        list-style: none;
+        align-items: center;
+        flex-direction: row;
+        margin: 45px 0 0 0px;
+        padding: 0 ;
+    }
+    .part1 ul img {
+        margin-right: 5px;
+        width: 22px;
+        height: 21px;
+    }
+    .part1 p {
+        font-size: 20px;
+        font-weight: 400px;     
+    }
+    .part1 h1 {
+        margin: 0;
+        font-family: Roboto Slab;
+        font-weight: 700;
+        font-size: 80px;
+        padding: 0;
+        line-height: 101.38%;
+    }
+    .chair {
+        display: flex;
+        flex-direction: column;
+        width: 364px;
+        margin-left: 800px;
+        margin-top: -240px;
+    }
+    .blue_quote {
+        overflow: hidden;
+        background-color: #1E4681;
+        border-radius: 2.32986px;
+        padding: 0;
+        margin-left: 296px;
+        width: 483.63px;
+       height: 200.02px;
+    }
+    .blue_quote .text {
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 32.5px;
+        margin: 9px 13px 0 12px; 
+        color: #FFFFFF;
+    }
+    .blue_quote .name {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: right;
+        margin: 8px 9px 13px 35px;
+        color: #FFFFFF;    
+    }
+    .part2 h2{
+        font-family: 'Roboto Slab';
+        font-style: Bold;
+        font-size: 55px;
+        font-weight: 700px;
+        line-height: 26px;
+    }
+    .part2 {
+        padding: 0 121px;
+    }
+    .knowledge {
+        margin: 0 0 55px 0;
+        padding: 0 0 0 0;
+    }
+    .what{
+        margin-bottom: 100px;
+        font-size: 24px;
+        line-height: 36px;
+        margin: 0 0 230px 0;
+        padding: 0 0 0 22px;
+    }
+    .about {
+        display: flex;
+        /* flex-direction: r; */
+    }
+    .about-text {
+        margin: 0 120px 80px 0;
+    }
+    .about p {
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 151.38%;
+        width: 48vw;
+    }
+    .camera {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+    }
+    .man2{
+        z-index: 100;
+        margin: 80px 0 0 0;
+        width: 364px;
+        height: 365px;
+    }
+    .shadow2 {
+        z-index: 1;
+        margin: -35px 0 0 -15px;
+        width: 400px;
+    }
+    .camera2 {
+        display: flex;
+        flex-direction: column;
+    }
+    .man3{
+        display: block;
+        z-index: 30;
+        width: 232px;
+        height: 203px;
+    }
+    .shadow3 {
+        display: block;
+        margin: -20px 0 0 35px;
+        padding: 0;
+        width: 189px;
+    }
+    .course-time{
+        display: flex;
+        flex-direction: row; 
+        width: 1456px;
+    }
+    .course-time li:first-child {
+        margin: 0 90px 0 0;
+    }
+    .course-time li {
+        display: flex;
+        align-items: center;
+        margin: 0 50px 0 0;
+    }
+   .course-time .duration{
+       font-family: Roboto;
+       font-size: 25px;
+       font-weight: 700;
+       line-height: 25.6px;
+       font-family: 'Roboto';
+       width: 200px;
+    }
+    .course-time .duration1{
+       font-family: Roboto;
+       font-size: 18px;
+       font-weight: 400;
+       line-height: 13px;
+       width: 258px;
+      line-height: 130%;
+      margin-top: 15px;
+    }
+}
+/* NAMAZ PART */
+@media (min-width: 1280px) {
+
+    .part3{
+        margin-top: 200px;
+        margin-bottom: 121px;
+        box-sizing: border-box;
+    }
+
+    .part3 h1{
+        padding: 0 121px 0 121px;
+    }
+
+    .card-program-list{
+        margin-top: 95px;
+        padding: 0 84px 0 84px;
+    }
+
+    .card-image{
+        margin-top: -9px;
+        width: 350px;
+        height: 160px;
+    }
+
+    .cart-program {
+        width: 350px;
+        height: 328px;
+        margin-right: 37px;
+        margin-bottom: 72px;
+        border-radius: 30px;
+    }
+
+    .cart-program-title{
+        width: 100%;
+        font-size: 30px;
+    }
+
+    .cart-program-subtitle{
+        font-size: 25px;
+    }
+
+    .part3 h1{
+        font-size: 55px;
+    }
+    .big-card-comment{
+        font-size: 20px;
+        margin: 0;
+        padding: 0;
+    }
+    .big-card-title{
+        font-size: 55px;
+        margin-left: 122px;
+        width: 100%;
+    }
+    
+    .big-card{
+        margin-left: 122px;
+        padding: 40px;
+        min-width: 610px;
+    }
+    .profile-photo {
+        width: 180px;
+    }
+    .facebook-big-card {
+        margin: 60px 0 0 250px;
+        width: 32px;
+        height: 31px;
+    }
+    .commenter {
+        font-size: 30px;
+        margin: -150px 0 0 250px;
+    }
+}
+/* ARZU PART */
+@media (min-width: 1280px){
+    .part5{
+        padding: 100px;
+    }
+    .chead{
+        width: 908px;
+        font-size: 55px;
+        line-height: normal;
+    }
+    .cost{
+        font-size: 25px;
+    }
+    .value{
+        font-size: 80px;
+    }
+    .part5 .p1{
+        font-size: 25px;
+    }
+    .part5 .p2{
+        width: 294px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .list .li1, .li2{
+        margin-right: 70px;
+        width: 294px;
+    }
+    .format {
+        padding: 0 0 0 0;
+    }
+
+    .lesson p {
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
+    }
+    .lesson2 p{
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
+    }
+    .lesson3 p {
+        line-break:normal;
+        margin-bottom: 0 0 35px 0;
+    }
+    .lesson-list ul {
+        margin: 0 0 225px 0;
+    }
+    .lesson-list .lp{
+        font-size: 18px;
+        line-height: 23.54px;
+        margin: 0;
+    }   
+    .lesson-list .lhead{
+        font-size: 25px;
+        line-height: 10px;
+    }
+    .sentence21 {
+        display: inline-block;
+        width: 100%;
+    }
+    .sentence22 {
+        display: inline-block;
+        width: 100%;
+    }
+    .format h2{
+        font-size: 55px;
+        margin-bottom: 90px;
+    }
+    .format ul {
+        flex-direction: row;
+    }
+    .format p {
+        width: 100%;
+        font-size: 12px;
+    }
+}
+/* ZEGA PART */
+@media (min-width: 1280px) {
+    .part6 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: black;
+        color: white;
+        padding: 50px 176px 45px 122px;
+
+    }
+    .sync_white {
+        height: 68px;
+    }
+    .logos {
+        display: flex;
+        flex-direction: row;
+        margin: 30px 0 0 0;
+        padding: 0;
+    }
+    .contacts {
+        padding-left: 0;
+        margin: 5px 0 0 0;
+    }
+    .contacts li {
+        display: flex;
+        flex-direction: row;
+        margin: 0 0 22px 0;
+    }
+    .contacts_mobile {
+        display: none;
+    }
+    .contacts p {
+        font-size: 25px;
+        margin: 0 0 0 22px;
+    }
+    .logos li {
+        margin-right: 20px;
+    }
+    .phone {
+        width: 27px;
+    }
+    .mail {
+        width: 27px;
+    }
+    .insta {
+        width: 33px;
+    }
+    .fb {
+        width: 32px;
+    }
+    .vk {
+        width: 35px;
+    }
+    .viber {
+        width: 34px;
+    }
+    .last-item {
+        margin: 146px 0 0 0;
+        font-size: 18px;
+    }
+}
