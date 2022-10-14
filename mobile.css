@@ -497,6 +497,11 @@ header {
         width: 70vw;
     }
 }
+@media screen and (min-width: 320px) and (max-width: 355px) {
+    .chair {
+        margin-left: 45%;
+    }
+}
 @media screen and (min-width: 480px) and (max-width: 940px) {
     .big-card {
         width: 70vw;
