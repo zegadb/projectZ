@@ -141,6 +141,7 @@
     .course-time{
         display: flex;
         flex-direction: row; 
+        width: 1456px;
     }
     .course-time li:first-child {
         margin: 0 90px 0 0;
