@@ -164,6 +164,7 @@
     }
 
     .card-program-list{
+        /* justify-content: center; */
         margin-top: 45px;
         padding: 0 48px 0 48px;
     }

@@ -275,10 +275,10 @@ span {
     box-sizing: border-box;
 }
 .card-program-list{
-    display: inline-block;
-    justify-content: left;
+    /* display: inline-block; */
+    display: flex;
+    /* justify-content: center; */
     flex-flow: row wrap;
-    justify-content: flex-start;
     flex-wrap: wrap;
     padding: 0 95px 0 95px;
 }
