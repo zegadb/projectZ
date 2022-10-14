@@ -442,7 +442,7 @@ header {
     margin: 49px 0 0 0;
     font-size: 10px;
 }
-.kak span {
+.how span {
     display: none;
 }
 @media (min-width: 440px) {
@@ -484,10 +484,10 @@ header {
     .camera {
         margin: 20px 0 45px 35%;
     }
-    .kak p {
+    .how p {
         font-size: 12px;
     }
-    .kak span {
+    .how span {
         display: none;
     }
     .big-card-comment 
